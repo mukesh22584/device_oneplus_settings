@@ -92,10 +92,10 @@
             android:title="@string/touchscreen_music_gesture_title"
             android:summary="@string/touchscreen_music_gesture_summary" />
 
-        <SwitchPreference
+        <!--SwitchPreference
             android:key="touchscreen_gesture_flashlight"
             android:title="@string/touchscreen_flashlight_gesture_title"
-            android:summary="@string/touchscreen_flashlight_gesture_summary" />
+            android:summary="@string/touchscreen_flashlight_gesture_summary" />-->
 
 
         <SwitchPreference
